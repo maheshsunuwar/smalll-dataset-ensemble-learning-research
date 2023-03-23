@@ -1,0 +1,162 @@
+Age at Histological Diagnosis,Weight (lbs),Gender,Ethnicity,Smoking status,Pack Years,%GG,Tumor Location (choice=RUL),Tumor Location (choice=RML),Tumor Location (choice=RLL),Tumor Location (choice=LUL),Tumor Location (choice=LLL),Tumor Location (choice=L Lingula),Tumor Location (choice=Unknown),Histology ,Pathological T stage,Pathological N stage,Pathological M stage,Histopathological Grade,Lymphovascular invasion,"Pleural invasion (elastic, visceral, or parietal)",EGFR mutation status,KRAS mutation status,ALK translocation status,Adjuvant Treatment,Chemotherapy,Radiation,Days between CT and surgery,Recurrence
+65,195,1,Asian,Nonsmoker,0,0%,1,0,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G1 Well differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,23,0
+65,170.4461627,0,Caucasian,Current,38,0%,0,0,0,0,1,0,0,Adenocarcinoma,T3,N0,M0,"Other, Type I: Well to moderately differentiated",Absent,0,Mutant,Mutant,Wildtype,0,0,0,25,0
+67,170.4461627,0,Caucasian,Former,10,0%,0,0,0,1,0,0,0,Squamous cell carcinoma,T1b,N2,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,1,1,1,89,1
+84,145,0,Native Hawaiian/Pacific Islander,Former,20,0%,0,1,0,0,0,0,0,Adenocarcinoma,T2a,N0,M0,G3 Poorly differentiated,Absent,0,Wildtype,Unknown,Wildtype,0,0,0,92,1
+62,170.4461627,0,Caucasian,Former,34,0%,0,0,0,1,0,0,0,Adenocarcinoma,T1b,N0,M0,G1 Well differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,315,0
+68,170.4461627,0,Caucasian,Former,15,0%,0,0,0,0,1,0,0,Squamous cell carcinoma,T1a,N1,M0,G3 Poorly differentiated,Absent,0,Wildtype,Wildtype,Wildtype,1,1,0,31,1
+73,102,0,Caucasian,Nonsmoker,0,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,Tis,N0,M0,G1 Well differentiated,Absent,0,Wildtype,Mutant,Unknown,0,0,0,34,0
+59,133,0,Caucasian,Current,100,0%,0,1,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G3 Poorly differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,59,0
+72,170.4461627,0,Caucasian,Former,60,>0 - 25%,1,0,0,0,0,0,0,Squamous cell carcinoma,T3,N0,M0,G2 Moderately differentiated,Absent,1,Wildtype,Wildtype,Wildtype,0,0,0,52,1
+65,90,1,Asian,Nonsmoker,0,0%,0,0,0,0,1,0,0,Squamous cell carcinoma,T1a,N2,M0,G3 Poorly differentiated,Absent,0,Unknown,Unknown,Unknown,1,1,0,101,0
+70,125,1,Caucasian,Nonsmoker,0,50 - 75%,1,0,0,0,0,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,1,Wildtype,Wildtype,Translocated,1,1,1,90,1
+46,176,1,Asian,Former,15,0%,0,0,0,0,1,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,1,Unknown,Unknown,Unknown,0,0,0,112,0
+52,130,1,Caucasian,Former,1,25 - 50%,1,0,0,0,0,0,0,Adenocarcinoma,Tis,N0,M0,G1 Well differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,14,0
+74,170.4461627,0,Caucasian,Nonsmoker,0,0%,1,0,0,0,0,0,0,Adenocarcinoma,T2a,N0,M0,G3 Poorly differentiated,Absent,1,Wildtype,Wildtype,Wildtype,0,0,0,42,0
+64,195,0,African-American,Current,34,0%,0,0,1,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,116,1
+77,175,0,Caucasian,Former,20,75 - < 100%,0,0,0,1,0,0,0,Adenocarcinoma,T1a,N0,M0,G1 Well differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,5,0
+67,170.4461627,0,Caucasian,Former,10,0%,0,0,1,0,0,0,0,Squamous cell carcinoma,T4,N0,M0,G3 Poorly differentiated,Absent,1,Wildtype,Wildtype,Unknown,1,1,1,104,1
+71,205,0,Caucasian,Former,42,0%,1,0,0,0,0,0,0,Adenocarcinoma,T1b,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Mutant,Wildtype,0,0,0,42,0
+63,152,1,Caucasian,Nonsmoker,0,0%,1,0,0,0,0,0,0,Adenocarcinoma,T3,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Unknown,Unknown,0,0,0,162,1
+61,149,1,Asian,Nonsmoker,0,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,191,0
+62,170.4461627,0,African-American,Nonsmoker,0,25 - 50%,0,0,0,1,0,0,0,Adenocarcinoma,Tis,N0,M0,G2 Moderately differentiated,Absent,0,Unknown,Wildtype,Unknown,0,0,0,69,1
+81,170.4461627,0,Native Hawaiian/Pacific Islander,Former,10,0%,0,0,1,0,0,0,0,Adenocarcinoma,Tis,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,77,0
+52,169,0,Caucasian,Current,53,0%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G1 Well differentiated,Absent,1,Unknown,Mutant,Unknown,0,0,0,155,1
+68,170.4461627,0,Caucasian,Current,40,0%,1,0,0,0,0,0,0,Adenocarcinoma,T2a,N0,M0,G1 Well differentiated,Absent,0,Wildtype,Unknown,Wildtype,0,0,0,87,0
+59,158,0,Asian,Nonsmoker,0,0%,0,0,0,1,0,0,0,Adenocarcinoma,T1b,N0,M0,G2 Moderately differentiated,Absent,0,Mutant,Wildtype,Wildtype,1,1,1,52,1
+76,152.145,0,Caucasian,Former,50,0%,1,0,0,0,0,0,0,NSCLC NOS (not otherwise specified),T4,N0,M0,G3 Poorly differentiated,Present,1,Wildtype,Wildtype,Wildtype,0,0,0,24,0
+67,189.63,0,Caucasian,Former,80,0%,0,0,1,0,0,0,0,Adenocarcinoma,T2a,N0,M0,G3 Poorly differentiated,Absent,1,Wildtype,Mutant,Wildtype,0,0,0,23,0
+76,249.165,0,Caucasian,Former,60,0%,0,0,0,0,1,0,0,NSCLC NOS (not otherwise specified),T3,N2,M0,G2 Moderately differentiated,Present,0,Wildtype,Mutant,Wildtype,1,1,0,33,1
+86,189.63,0,Caucasian,Former,30,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T1a,N2,M0,G1 Well differentiated,Absent,0,Wildtype,Unknown,Unknown,0,0,0,45,1
+64,160.965,0,Hispanic/Latino,Former,46,0%,0,0,1,0,0,0,0,NSCLC NOS (not otherwise specified),T1b,N0,M0,G3 Poorly differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,23,1
+63,134.505,0,Caucasian,Former,20,0%,1,0,0,0,0,0,0,Adenocarcinoma,T2a,N0,M0,"Other, Type II: Moderately to poorly differentiated",Absent,1,Wildtype,Wildtype,Wildtype,0,0,0,90,0
+69,185.22,0,Caucasian,Former,35,0%,0,0,0,0,0,1,0,Adenocarcinoma,T1b,N2,M0,"Other, Type I: Well to moderately differentiated",Absent,0,Unknown,Unknown,Unknown,0,0,0,14,1
+64,180.81,0,Hispanic/Latino,Nonsmoker,0,>0 - 25%,0,0,0,0,1,0,0,Adenocarcinoma,T2a,N1,M0,G2 Moderately differentiated,Absent,1,Wildtype,Wildtype,Wildtype,1,1,0,75,0
+78,216.09,0,Caucasian,Current,90,0%,0,0,1,0,0,0,0,Adenocarcinoma,T2a,N2,M0,G1 Well differentiated,Absent,0,Wildtype,Wildtype,Wildtype,1,1,0,16,1
+43,317.52,0,Caucasian,Former,34,0%,0,0,1,0,0,0,0,Adenocarcinoma,T3,N2,M0,G3 Poorly differentiated,Present,1,Wildtype,Wildtype,Unknown,1,1,1,23,1
+84,187.425,0,Caucasian,Former,10,0%,0,0,0,0,1,0,0,Adenocarcinoma,T2a,N0,M0,"Other, Type II: Moderately to poorly differentiated",Absent,1,Mutant,Wildtype,Wildtype,0,0,0,3,0
+59,216.09,0,Caucasian,Former,80,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,81,0
+78,198.45,0,Caucasian,Former,54,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T1b,N0,M0,G1 Well differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,64,0
+64,211.68,0,Caucasian,Former,30,0%,0,0,0,0,1,0,0,Squamous cell carcinoma,T2a,N0,M0,G2 Moderately differentiated,Present,0,Wildtype,Wildtype,Wildtype,0,0,0,10,0
+57,288.855,1,Caucasian,Former,10,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,47,0
+76,178.605,0,African-American,Current,50,0%,0,0,1,0,0,0,0,Squamous cell carcinoma,T2b,N0,M0,"Other, Type I: Well to moderately differentiated",Absent,0,Unknown,Unknown,Unknown,0,0,0,1,0
+81,174.195,0,African-American,Former,25,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Mutant,Wildtype,0,0,0,102,0
+72,167.58,0,Caucasian,Former,120,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,,0,Wildtype,Wildtype,Wildtype,0,0,0,81,0
+66,145.53,0,Caucasian,Former,50,0%,0,0,0,0,1,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Present,0,Wildtype,Mutant,Wildtype,0,0,0,9,0
+66,200.655,0,Caucasian,Former,75,0%,0,0,0,0,1,0,0,Squamous cell carcinoma,T1b,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,79,0
+87,160.965,0,Caucasian,Former,50,0%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G1 Well differentiated,Absent,1,Mutant,Wildtype,Wildtype,0,0,0,52,0
+77,185.22,0,Caucasian,Former,8,0%,1,0,0,0,0,0,0,Adenocarcinoma,T1b,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,63,0
+70,174.195,1,Caucasian,Current,25,0%,0,0,1,0,0,0,0,Squamous cell carcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,30,0
+73,127.89,1,Caucasian,Current,50,0%,1,0,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,21,1
+70,202.86,0,Caucasian,Nonsmoker,0,0%,1,0,0,0,0,0,0,Adenocarcinoma,T1b,N1,M0,G2 Moderately differentiated,Present,0,Wildtype,Wildtype,Wildtype,0,0,0,6,1
+75,185.22,0,Caucasian,Nonsmoker,0,0%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G1 Well differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,93,0
+62,127.89,0,African-American,Current,34,0%,1,0,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G3 Poorly differentiated,Absent,0,Wildtype,Mutant,Wildtype,0,0,0,46,0
+56,220.5,0,Caucasian,Current,25,0%,1,0,0,0,0,0,0,Adenocarcinoma,T3,N1,M0,G2 Moderately differentiated,Absent,0,Wildtype,Mutant,Wildtype,1,1,1,27,1
+69,200.655,0,Caucasian,Former,54,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T1a,N0,M0,G2 Moderately differentiated,,0,Wildtype,Wildtype,Wildtype,0,0,0,86,0
+71,180.81,0,Caucasian,Former,22,0%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N1,M0,"Other, Type I: Well to moderately differentiated",Present,1,Mutant,Wildtype,Wildtype,0,0,0,9,0
+65,185.22,0,Caucasian,Current,30,50 - 75%,1,0,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,30,0
+63,145.53,0,Asian,Nonsmoker,0,>0 - 25%,0,0,0,0,1,0,0,Adenocarcinoma,T1b,N0,M0,"Other, Type I: Well to moderately differentiated",Absent,0,Mutant,Wildtype,Wildtype,0,0,0,130,0
+67,160.965,0,Caucasian,Former,60,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,T1a,N1,M0,G2 Moderately differentiated,Present,0,Wildtype,Mutant,Wildtype,1,1,0,177,0
+53,156.555,1,Caucasian,Current,35,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T4,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,1,1,0,74,0
+67,200.655,0,Caucasian,Former,43,0%,1,0,0,0,0,0,0,Adenocarcinoma,T1b,N0,M0,"Other, Type II: Moderately to poorly differentiated",Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,100,0
+72,200.655,0,Caucasian,Former,80,0%,0,0,0,0,1,0,0,Adenocarcinoma,T1a,N0,M0,"Other, Type II: Moderately to poorly differentiated",Absent,0,Wildtype,Mutant,Wildtype,0,0,0,38,0
+65,209.475,0,Caucasian,Former,40,0%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G3 Poorly differentiated,Absent,1,Wildtype,Wildtype,Wildtype,1,1,0,64,0
+81,147.735,0,Hispanic/Latino,Current,34,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,28,0
+80,194.04,0,Caucasian,Former,38,0%,0,0,0,1,0,0,0,Squamous cell carcinoma,T2b,N2,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,1,1,0,14,1
+67,194.04,0,Caucasian,Former,51,0%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N2,M0,G3 Poorly differentiated,Present,0,Wildtype,Mutant,Wildtype,0,0,0,58,0
+65,207.27,0,Caucasian,Former,50,0%,0,0,1,0,0,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,7,0
+63,183.015,0,Caucasian,Former,40,0%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M1b,G3 Poorly differentiated,Absent,1,Wildtype,Wildtype,Wildtype,1,1,0,29,1
+70,171.99,0,Caucasian,Former,45,>0 - 25%,0,0,1,0,0,0,0,Squamous cell carcinoma,T2b,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,56,0
+66,160.965,0,Caucasian,Former,8,0%,0,1,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G1 Well differentiated,,0,Wildtype,Wildtype,Wildtype,0,0,0,17,0
+72,145.53,0,Caucasian,Former,10,0%,0,0,0,1,0,0,0,Squamous cell carcinoma,T1a,N0,M0,G1 Well differentiated,Present,0,Wildtype,Wildtype,Wildtype,0,0,0,22,0
+70,152.145,0,Caucasian,Former,120,0%,0,1,0,0,0,0,0,Adenocarcinoma,T2a,N0,M0,G3 Poorly differentiated,Absent,1,Wildtype,Mutant,Wildtype,0,0,0,102,1
+70,224.91,0,Caucasian,Former,80,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,43,0
+78,148.02165,1,Caucasian,Former,35,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T1b,N1,M0,G2 Moderately differentiated,Absent,0,Wildtype,Mutant,Wildtype,1,1,0,24,0
+86,132.3,0,Caucasian,Former,8,0%,0,0,0,1,0,0,0,Adenocarcinoma,T3,N1,M0,G2 Moderately differentiated,Absent,1,Mutant,Wildtype,Wildtype,0,0,0,1,1
+62,180.1926,0,Caucasian,Former,14,25 - 50%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,1,Mutant,Wildtype,Wildtype,0,0,0,54,0
+75,199.04535,1,Caucasian,Nonsmoker,0,>0 - 25%,0,0,1,0,0,0,0,Adenocarcinoma,T4,N2,M0,"Other, Type II: Moderately to poorly differentiated",Absent,0,Wildtype,Wildtype,Wildtype,1,1,1,10,1
+74,103.635,1,Caucasian,Former,30,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T2b,N2,M0,G2 Moderately differentiated,Absent,1,Wildtype,Wildtype,Wildtype,1,1,0,80,0
+85,111.5815,1,Caucasian,Former,15,>0 - 25%,0,0,0,0,1,0,0,Adenocarcinoma,T1b,N0,M0,G2 Moderately differentiated,Absent,0,Mutant,Wildtype,Wildtype,0,0,0,38,0
+71,214,0,Caucasian,Former,40,75 - < 100%,1,0,0,0,0,0,0,Adenocarcinoma,Tis,N0,M0,G1 Well differentiated,Absent,0,Mutant,Wildtype,Wildtype,0,0,0,83,0
+47,114.66,1,Asian,Nonsmoker,0,100%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G1 Well differentiated,Absent,1,Wildtype,Wildtype,Wildtype,0,0,0,59,0
+69,200.655,0,Caucasian,Former,50,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,T3,N0,M0,G2 Moderately differentiated,Absent,1,Wildtype,Wildtype,Wildtype,1,1,0,9,0
+68,160.965,0,Caucasian,Current,50,0%,0,1,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,94,0
+63,200.655,0,Caucasian,Former,90,0%,0,0,0,1,0,0,0,Adenocarcinoma,T3,N0,M0,G2 Moderately differentiated,Present,1,Wildtype,Wildtype,Wildtype,1,1,1,30,0
+70,200.655,0,Caucasian,Former,70,0%,0,1,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G1 Well differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,70,0
+68,171.99,0,Native Hawaiian/Pacific Islander,Former,25,0%,0,0,0,1,0,0,0,Adenocarcinoma,T1b,N2,M0,G1 Well differentiated,Present,0,Wildtype,Wildtype,Wildtype,1,1,0,14,0
+68,154.35,0,Asian,Former,10,50 - 75%,0,0,0,1,0,0,0,Adenocarcinoma,T1a,N0,M0,G1 Well differentiated,Absent,0,Mutant,Wildtype,Wildtype,0,0,0,63,0
+68,174.195,0,Caucasian,Former,50,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,1,Mutant,Wildtype,Wildtype,1,1,0,53,1
+74,130.02885,0,Asian,Former,60,0%,1,0,0,0,0,0,0,Adenocarcinoma,T3,N0,M0,"Other, Type II: Moderately to poorly differentiated",Absent,0,Mutant,Wildtype,Wildtype,1,1,0,68,0
+76,133,1,Caucasian,Current,10,0%,0,0,1,0,0,0,0,Adenocarcinoma,T2b,N1,M0,G3 Poorly differentiated,Present,1,Wildtype,Wildtype,Unknown,0,0,0,14,0
+64,128,1,Caucasian,Current,22,0%,1,0,0,0,0,0,0,Adenocarcinoma,T2a,N0,M1b,G2 Moderately differentiated,Absent,1,Wildtype,Wildtype,Wildtype,1,1,1,6,1
+73,139,0,Caucasian,Current,50,0%,0,0,1,0,0,0,0,Squamous cell carcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,1,Unknown,Unknown,Unknown,0,0,0,79,0
+83,201,0,Caucasian,Former,50,0%,0,1,0,0,0,0,0,Squamous cell carcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,73,1
+63,225,0,Caucasian,Former,80,0%,0,1,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G1 Well differentiated,Absent,0,Wildtype,Mutant,Wildtype,0,0,0,24,0
+74,183,0,Hispanic/Latino,Current,50,>0 - 25%,0,1,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Mutant,Wildtype,0,0,0,79,0
+70,201,0,Caucasian,Former,56,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,T1b,N2,M0,G3 Poorly differentiated,Absent,0,Wildtype,Mutant,Wildtype,1,1,0,123,0
+70,135,0,Caucasian,Current,30,0%,0,1,0,0,0,0,0,Adenocarcinoma,T1b,N0,M0,G1 Well differentiated,Absent,0,Wildtype,Mutant,Wildtype,0,0,0,17,0
+66,112,1,Asian,Current,34,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,1,Mutant,Wildtype,Wildtype,0,0,0,44,1
+51,132,1,Asian,Nonsmoker,0,0%,0,0,0,1,0,0,0,Adenocarcinoma,T4,N2,M1a,"Other, Type II: Moderately to poorly differentiated",Present,1,Mutant,Wildtype,Wildtype,1,1,1,36,1
+74,104,1,Caucasian,Former,30,50 - 75%,1,0,0,0,0,0,0,Adenocarcinoma,T1b,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,36,0
+74,181,0,Caucasian,Former,60,0%,0,1,0,0,0,0,0,Squamous cell carcinoma,T2a,N0,M0,G3 Poorly differentiated,Absent,1,Unknown,Unknown,Unknown,0,0,0,3,0
+73,185,0,Caucasian,Former,8,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T1b,N0,M0,"Other, Type I: Well to moderately differentiated",Absent,0,Unknown,Unknown,Unknown,0,0,0,31,0
+80,152,0,Caucasian,Former,40,0%,1,0,0,0,0,0,0,Adenocarcinoma,T2b,N0,M1b,G3 Poorly differentiated,Absent,0,Wildtype,Mutant,Wildtype,0,0,0,19,1
+76,229,0,Caucasian,Nonsmoker,0,50 - 75%,1,0,0,0,0,0,0,Adenocarcinoma,T1b,N0,M0,G2 Moderately differentiated,Absent,0,Mutant,Wildtype,Wildtype,0,0,0,2,0
+81,163,1,Caucasian,Former,34,>0 - 25%,0,0,0,0,1,0,0,Adenocarcinoma,T1b,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Mutant,Wildtype,0,0,0,78,0
+63,201,0,Caucasian,Former,40,0%,1,0,0,0,0,0,0,Adenocarcinoma,T2b,N0,M0,G3 Poorly differentiated,Absent,0,Wildtype,Wildtype,Wildtype,1,1,0,211,0
+83,137,1,Asian,Nonsmoker,0,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,T2a,N0,M0,G1 Well differentiated,Absent,1,Unknown,Unknown,Unknown,0,0,0,27,0
+77,207,0,Caucasian,Former,80,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T3,N0,M0,G3 Poorly differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,108,0
+69,194,0,Caucasian,Former,50,>0 - 25%,0,0,1,0,0,0,0,Adenocarcinoma,Tis,N0,M0,G1 Well differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,56,1
+59,269,0,African-American,Former,70,0%,0,0,0,0,1,0,0,Adenocarcinoma,T1a,N0,M0,G3 Poorly differentiated,Absent,0,Wildtype,Wildtype,Wildtype,1,1,1,88,0
+59,225,0,Caucasian,Current,45,0%,0,1,0,0,0,0,0,Adenocarcinoma,T1b,N0,M0,G2 Moderately differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,30,1
+78,260,0,Caucasian,Current,90,0%,0,0,0,0,1,0,0,Adenocarcinoma,T2b,N0,M0,G3 Poorly differentiated,Absent,1,Wildtype,Wildtype,Wildtype,1,1,0,46,0
+78,170,0,Caucasian,Former,30,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T1b,N1,M0,G3 Poorly differentiated,,0,Wildtype,Wildtype,Wildtype,0,0,0,16,1
+71,282,0,Caucasian,Former,65,0%,0,0,1,0,0,0,0,Squamous cell carcinoma,T3,N0,M0,G3 Poorly differentiated,Absent,0,Unknown,Unknown,Unknown,1,1,0,37,0
+67,161,0,Caucasian,Former,60,0%,0,0,0,1,0,0,0,Adenocarcinoma,T1a,N0,M0,"Other, Type I: Well to moderately differentiated",Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,2,0
+54,150,0,Asian,Current,20,0%,1,0,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Mutant,Wildtype,0,0,0,44,0
+65,137,0,Caucasian,Current,45,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T3,N0,M0,G1 Well differentiated,,0,Wildtype,Wildtype,Wildtype,1,1,0,51,0
+80,201,0,Caucasian,Former,45,0%,0,0,0,0,1,0,0,Squamous cell carcinoma,T2a,N0,M0,"Other, Type II: Moderately to poorly differentiated",Present,0,Wildtype,Wildtype,Wildtype,1,1,0,3,0
+67,170,0,Caucasian,Current,52,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T2a,N1,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,80,1
+80,176,0,Asian,Former,1,50 - 75%,0,0,0,1,0,0,0,Adenocarcinoma,T1a,N0,M0,"Other, Type I: Well to moderately differentiated",Absent,0,Unknown,Unknown,Unknown,0,0,0,735,0
+72,198.5,0,Caucasian,Current,120,0%,0,1,0,0,0,0,0,Squamous cell carcinoma,T1b,N0,M0,G2 Moderately differentiated,Present,0,Unknown,Unknown,Unknown,0,0,0,1,0
+69,174,0,Caucasian,Former,50,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T3,N0,M0,G1 Well differentiated,Absent,0,Wildtype,Mutant,Wildtype,0,0,0,57,1
+69,256,0,Caucasian,Former,20,75 - < 100%,0,0,0,0,1,0,0,Adenocarcinoma,T1a,N0,M0,G1 Well differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,86,0
+72,183,0,Caucasian,Former,63,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,58,0
+76,108.045,1,Caucasian,Current,90,0%,0,1,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,6,1
+65,128,1,Caucasian,Former,18,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,T3,N0,M0,G2 Moderately differentiated,Absent,1,Wildtype,Mutant,Wildtype,0,0,0,44,0
+73,126,0,Asian,Nonsmoker,0,75 - < 100%,1,0,0,0,0,0,0,Adenocarcinoma,T1b,N0,M0,G1 Well differentiated,Absent,0,Mutant,Wildtype,Wildtype,0,0,0,26,0
+73,125,1,Asian,Nonsmoker,0,0%,0,0,0,0,1,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,47,1
+79,173,0,Caucasian,Former,100,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G3 Poorly differentiated,Absent,1,Wildtype,Mutant,Wildtype,0,0,0,17,0
+81,102,0,Caucasian,Former,60,>0 - 25%,0,0,1,0,0,0,0,Adenocarcinoma,T2a,N1,M0,G2 Moderately differentiated,Present,0,Wildtype,Wildtype,Translocated,0,0,0,61,0
+68,133,1,Caucasian,Former,2,50 - 75%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,0,Mutant,Wildtype,Wildtype,0,0,0,23,0
+62,132,1,Caucasian,Former,1,25 - 50%,1,0,0,0,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Mutant,Wildtype,Wildtype,0,0,0,52,0
+73,183.015,0,Caucasian,Former,90,25 - 50%,0,0,1,0,0,0,0,Adenocarcinoma,T2a,N2,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,1,1,1,50,0
+62,94.815,0,Asian,Current,20,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T1b,N0,M0,"Other, Type II: Moderately to poorly differentiated",Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,4,0
+69,134.505,1,Caucasian,Former,50,0%,1,0,0,0,0,0,0,Squamous cell carcinoma,T3,N0,M0,G3 Poorly differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,1,0
+57,110.1177,1,Asian,Nonsmoker,0,75 - < 100%,0,0,1,0,0,0,0,Adenocarcinoma,T1b,N0,M0,G1 Well differentiated,Absent,0,Mutant,Wildtype,Wildtype,0,0,0,64,0
+50,208.04175,1,Caucasian,Current,30,>0 - 25%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,1,Wildtype,Mutant,Wildtype,0,0,0,28,0
+68,176,0,Asian,Former,20,0%,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,1,Unknown,Unknown,Unknown,0,0,0,72,0
+65,171,1,Caucasian,Former,41,0%,1,0,0,0,0,0,0,Adenocarcinoma,T2a,N0,M0,G3 Poorly differentiated,Absent,1,Wildtype,Mutant,Wildtype,1,1,0,13,0
+46,179,1,Caucasian,Former,5,0%,1,0,0,0,0,0,0,Adenocarcinoma,T1b,N2,M0,G2 Moderately differentiated,Present,0,Wildtype,Wildtype,Wildtype,0,0,0,6,0
+79,155,0,Hispanic/Latino,Former,5,>0 - 25%,0,0,0,0,1,0,0,Adenocarcinoma,T1b,N0,M0,G2 Moderately differentiated,Absent,0,Mutant,Wildtype,Wildtype,0,0,0,87,1
+55,171,1,Caucasian,Former,15,>0 - 25%,1,0,0,0,0,0,0,Adenocarcinoma,T1b,N0,M0,"Other, Type I: Well to moderately differentiated",Absent,0,Mutant,Wildtype,Wildtype,0,0,0,16,0
+61,103,1,Caucasian,Former,35,>0 - 25%,1,0,0,0,0,0,0,Squamous cell carcinoma,T2a,N0,M0,"Other, Type II: Moderately to poorly differentiated",Present,1,Unknown,Unknown,,0,0,0,42,0
+80,157,0,Asian,Current,10,0%,0,0,0,1,0,0,0,Adenocarcinoma,T1a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,23,0
+77,137,0,Asian,Former,40,>0 - 25%,0,0,1,0,0,0,0,Adenocarcinoma,T2a,N0,M0,"Other, Type II: Moderately to poorly differentiated",Absent,1,Wildtype,Wildtype,Wildtype,0,0,0,10,0
+81,80,1,Asian,Nonsmoker,0,>0 - 25%,0,0,1,0,0,0,0,Adenocarcinoma,T2b,N2,M0,G2 Moderately differentiated,Absent,1,Mutant,Wildtype,Wildtype,0,0,0,66,1
+69,103.64,1,Caucasian,Nonsmoker,0,Not Assessed,0,1,0,0,0,0,0,Adenocarcinoma,T2a,N2,M0,G1 Well differentiated,Present,0,Mutant,Wildtype,Unknown,1,1,0,28,1
+43,132.3,0,Asian,Former,10,Not Assessed,1,0,0,0,0,0,0,Adenocarcinoma,T2b,N0,M1b,G3 Poorly differentiated,Absent,1,Wildtype,Mutant,Wildtype,1,1,1,31,1
+47,165.4,1,Caucasian,Nonsmoker,0,Not Assessed,0,0,0,1,0,0,0,Adenocarcinoma,T3,N0,M0,G3 Poorly differentiated,Absent,1,Wildtype,Wildtype,Wildtype,1,1,0,17,1
+65,167,1,Caucasian,Former,68,Not Assessed,0,1,0,0,0,0,0,Squamous cell carcinoma,T1b,N1,M0,G2 Moderately differentiated,Absent,0,,,,0,0,0,38,0
+56,111.1,1,Caucasian,Nonsmoker,0,Not Assessed,0,0,0,0,1,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Mutant,Wildtype,1,1,1,27,1
+76,195,0,Caucasian,Former,30,Not Assessed,0,0,0,0,1,0,0,Adenocarcinoma,T3,N0,M0,G1 Well differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,39,0
+74,160.97,0,Caucasian,Former,34,Not Assessed,1,0,0,0,0,0,0,Adenocarcinoma,T4,N0,M0,G3 Poorly differentiated,,,Wildtype,Unknown,Wildtype,1,1,1,42,1
+66,194,0,Caucasian,Former,5,Not Assessed,0,0,0,0,1,0,0,Adenocarcinoma,T3,N0,M0,G1 Well differentiated,,,Wildtype,,,0,0,0,15,0
+65,154.4,0,Caucasian,Former,51,Not Assessed,0,0,0,1,0,0,0,Squamous cell carcinoma,T3,N0,M0,G2 Moderately differentiated,Absent,0,,,Wildtype,0,0,0,37,0
+79,149,1,Caucasian,Former,17,Not Assessed,1,0,0,0,0,0,0,Squamous cell carcinoma,T4,N0,M0,G3 Poorly differentiated,Present,0,Unknown,Unknown,Unknown,1,1,0,20,0
+67,143,0,Hispanic/Latino,Current,25,Not Assessed,1,0,0,0,0,0,0,Squamous cell carcinoma,T2a,N1,M0,G2 Moderately differentiated,Absent,0,Unknown,Unknown,Unknown,1,1,0,5,0
+75,184,0,Caucasian,Former,55,Not Assessed,0,0,0,0,1,0,0,Squamous cell carcinoma,T2a,N1,M0,G2 Moderately differentiated,Absent,0,Unknown,Unknown,Unknown,0,0,0,14,0
+61,231.5,0,Caucasian,Former,12,Not Assessed,1,0,0,0,0,0,0,Adenocarcinoma,T3,N0,M0,"Other, Type II: Moderately to poorly differentiated",Absent,0,Unknown,Mutant,Unknown,1,1,0,72,0
+52,170.4461627,1,Caucasian,Former,7,Not Assessed,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G2 Moderately differentiated,Absent,0,Wildtype,Wildtype,Wildtype,0,0,0,8,0
+67,158,0,Asian,Former,15,Not Assessed,0,0,0,1,0,0,0,Adenocarcinoma,T2a,N0,M0,G1 Well differentiated,Absent,0,Mutant,Wildtype,Wildtype,0,0,0,65,0
+68,229,0,Caucasian,Current,30,Not Assessed,0,0,0,0,0,1,0,NSCLC NOS (not otherwise specified),T1a,N0,M0,G3 Poorly differentiated,,,,,,1,1,0,51,1
